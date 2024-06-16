@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color:gray ;
+}
+#board {
+    background-color: black;
+    border-top: 0.4vw solid skyblue;
+    border-bottom: 0.4vw solid skyblue;
+
+}
