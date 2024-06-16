@@ -7,11 +7,13 @@ The game does not support multiplayer. The both players are controlled from the 
 ### Player 1
 Left-side rectangle
 **W** Move upward
+
 **S** Move down
  
 ### Player 2
 Right-side rectangle
 **Arrow Up**   Move upward
+
 **Arrow Down** Move Down
 
 ## Sources
