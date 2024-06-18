@@ -1,9 +1,12 @@
 # Dinan's Pong game
 ## Introduction
 This is a pong-like game created in HTML, CSS and JavaScript. A tutorial has been followed, which has been mentioned below.
-The game does not support multiplayer. The both players are controlled from the same system/keyboard.
+The game does not support multiplayer on multiple devices. The both players are controlled from the same system/keyboard.
 
 ## Controls
+The controls are quite simple and representative.
+
+
 ### Player 1
 Left-side rectangle
 
